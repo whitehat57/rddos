@@ -48,7 +48,8 @@ func main() {
         fmt.Println("\033[91m(_/\\033[0m              \033[95m(_/___ /  (_/___ /    (_/      (_/")
 
         fmt.Println("                        Author: Mr.\033[91mRed\033[0m")
-        fmt.Println("       Github: https://github.com/Red-company/RDDoS_Tool")
+        fmt.Println("                        Recoded: \033[91mdanz\033[0m")
+        fmt.Println("       Github: https://github.com/whitehat57/rddos.git")
         fmt.Println("                   For legal purposes only")
         fmt.Println("\033[92;1m")
         fmt.Println("1. Website Domain\n2. IP Address\n3. About\n4. Exit")
